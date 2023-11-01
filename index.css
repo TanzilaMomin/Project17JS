@@ -1,0 +1,19 @@
+button{
+    height: 50px;
+    width: 120px;
+    background-color: rgb(224, 199, 137);
+    color:brown ;
+    margin: 20px;
+    margin-left: 150px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 5px 5px 5px burlywood;
+    padding: 20px;
+    font-size: 15px;
+    font-weight: bold;
+}
+li{
+    font-size: x-large;
+    color:blueviolet;
+    margin-left: 700px;
+}
